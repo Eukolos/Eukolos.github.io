@@ -10908,6 +10908,11 @@ p.lead {
     max-height: 10rem;
     border: 0.00rem solid rgba(255, 255, 255, 0.2);
   }
+  .img-profile-2 {
+    max-width: 10rem;
+    max-height: 10rem;
+    border: 20rem solid red;
+  }
   #sideNav .navbar-collapse {
     display: flex;
     align-items: flex-start;
